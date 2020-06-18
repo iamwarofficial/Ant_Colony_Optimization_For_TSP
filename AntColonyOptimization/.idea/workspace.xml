@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9452c53c-cb32-4ee9-aac3-5e0578c10d10" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1OlaFPyERqXzkI50UAvJgKKiYvX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551641285761" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Driver" />
+      <module name="AntColonyOptimization" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Driver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9452c53c-cb32-4ee9-aac3-5e0578c10d10" name="Default Changelist" comment="" />
+      <created>1550762027708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550762027708</updated>
+      <workItem from="1555469382716" duration="222000" />
+      <workItem from="1564554560854" duration="180000" />
+      <workItem from="1567788606153" duration="622000" />
+      <workItem from="1577933677893" duration="236000" />
+      <workItem from="1580693322267" duration="181000" />
+      <workItem from="1580695265744" duration="12000" />
+      <workItem from="1581402611649" duration="130000" />
+      <workItem from="1581994676621" duration="45000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="624" y="290" key="#Project_Structure" timestamp="1577933774166">
+      <screen x="0" y="23" width="2048" height="1205" />
+    </state>
+    <state x="624" y="290" key="#Project_Structure/0.23.2048.1205@0.23.2048.1205" timestamp="1577933774166" />
+    <state width="2006" height="370" key="GridCell.Tab.0.bottom" timestamp="1581402740221">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="2006" height="370" key="GridCell.Tab.0.bottom/0.0.2048.1280@0.0.2048.1280" timestamp="1581402740221" />
+    <state width="1358" height="271" key="GridCell.Tab.0.bottom/0.23.2048.1205@0.23.2048.1205" timestamp="1577933913790" />
+    <state width="2006" height="370" key="GridCell.Tab.0.center" timestamp="1581402740220">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="2006" height="370" key="GridCell.Tab.0.center/0.0.2048.1280@0.0.2048.1280" timestamp="1581402740220" />
+    <state width="1358" height="271" key="GridCell.Tab.0.center/0.23.2048.1205@0.23.2048.1205" timestamp="1577933913790" />
+    <state width="2006" height="370" key="GridCell.Tab.0.left" timestamp="1581402740219">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="2006" height="370" key="GridCell.Tab.0.left/0.0.2048.1280@0.0.2048.1280" timestamp="1581402740219" />
+    <state width="1358" height="271" key="GridCell.Tab.0.left/0.23.2048.1205@0.23.2048.1205" timestamp="1577933913790" />
+    <state width="2006" height="370" key="GridCell.Tab.0.right" timestamp="1581402740220">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="2006" height="370" key="GridCell.Tab.0.right/0.0.2048.1280@0.0.2048.1280" timestamp="1581402740220" />
+    <state width="1358" height="271" key="GridCell.Tab.0.right/0.23.2048.1205@0.23.2048.1205" timestamp="1577933913790" />
+    <state x="701" y="461" key="com.intellij.ide.util.TipDialog" timestamp="1580693325317">
+      <screen x="0" y="23" width="2048" height="1213" />
+    </state>
+    <state x="701" y="461" key="com.intellij.ide.util.TipDialog/0.23.2048.1213@0.23.2048.1213" timestamp="1580693325317" />
+  </component>
+</project>
